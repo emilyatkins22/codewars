@@ -8,7 +8,7 @@ If anything in the text isn't a letter, ignore it and don't return it.
 "a" = 1, "b" = 2, etc.
 
 Example
-alphabetPosition("The sunset sets at twelve o' clock.") */\
+alphabetPosition("The sunset sets at twelve o' clock.") */
 
 //Solution
 function alphabetPosition(text) {
